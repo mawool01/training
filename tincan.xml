@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://8mIDbjePqrDBjXnEAf4-CVSw9N-uNT0d_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Sexual and Discriminatory Harassment Policies and Procedures Training</name>
+      <description lang="en-US"></description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://8mIDbjePqrDBjXnEAf4-CVSw9N-uNT0d_rise/k4sZtWEoFfnynJTOPBgxmJC6nmRmSz0j" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Introduction/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://8mIDbjePqrDBjXnEAf4-CVSw9N-uNT0d_rise/TqrwmFPRQaa64JWlMcZZJMXmJ8KVWEOR" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">UofL Committment to Equal Education &amp; Employment Opportunity/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://8mIDbjePqrDBjXnEAf4-CVSw9N-uNT0d_rise/R3rQ2DJD2CbScxLLrtXJoqwiZN0qmFYE" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Discrimination/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://8mIDbjePqrDBjXnEAf4-CVSw9N-uNT0d_rise/U-kRzEFBQHFlEzn-fk4qhw8pOSecT1S4" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Harassment/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://8mIDbjePqrDBjXnEAf4-CVSw9N-uNT0d_rise/Fn5PVHP9hHCSWDB8i8oWiSjQaXZd1v5t" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Sexual Harassment/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://8mIDbjePqrDBjXnEAf4-CVSw9N-uNT0d_rise/rqH_26dmwqaxB_tq36I975KkC0oq1Wzl" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">VAWA Act/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://8mIDbjePqrDBjXnEAf4-CVSw9N-uNT0d_rise/aT480C1FF1Dmc0VZ2H9VT2aNJ_Kv-uza" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Retaliation/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://8mIDbjePqrDBjXnEAf4-CVSw9N-uNT0d_rise/0xkFsLjio-ZQfvp4o_I3PPphrDq6tDxE" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Knowledge Check/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://8mIDbjePqrDBjXnEAf4-CVSw9N-uNT0d_rise/o9SxK-tXZkjzKhlW5712BSl_gT4v8aWY" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Contact/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://8mIDbjePqrDBjXnEAf4-CVSw9N-uNT0d_rise/LMRV8DWGzbn1_-nuN8JWJDk3wXKOaaI3" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Completion/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+        </activities>
+</tincan>
